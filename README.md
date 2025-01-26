@@ -48,6 +48,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MostafaTarekAioup/MostafaTarekAioup/output/snake.svg" alt="Snake animation" />
-
 ###
